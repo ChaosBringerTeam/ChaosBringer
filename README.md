@@ -24,6 +24,6 @@ Date: 16/03/2023
 
 ## Supported games + Features
 ```
-Killstreak Chaos - KillAura
+Killstreak Chaos - KillAura, mod/admin/dev/owner join check
 ```
  More will be released soon!

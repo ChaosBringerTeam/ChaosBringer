@@ -22,7 +22,7 @@ Date: 16/03/2023
 <!--+ WIP-->
 <!--- WIP-->
 
-## Supported games
+## Supported games + Features
 ```
 Killstreak Chaos - KillAura
 ```
